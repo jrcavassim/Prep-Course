@@ -22,7 +22,7 @@ En esta clase veremos:
 * Elementos/tags HTML básicos.
 * Introducción a CSS.
 * Selectores CSS y el tag \<style\> .
-* Estilos Básicos.
+* Estilos Básicos.K
 * Modelo de Caja.
 * Hojas de estilos externas y el tag \<link\>.
 
